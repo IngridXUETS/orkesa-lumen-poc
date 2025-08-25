@@ -1,0 +1,15 @@
+{
+  "index_version": "v0.1",
+  "works": [
+    {
+      "id": "poc_krysinska_rythmes_pittoresques_1890",
+      "titre": "Rythmes pittoresques",
+      "auteur": "Marie Krysinska",
+      "annee": 1890,
+      "langue": "FR",
+      "style_principal": "POESIE",
+      "url_geo": "https://raw.githubusercontent.com/IngridXUETS/orkesa-lumen-poc/main/geo-id-krysinska-rythmes-pittoresques.json",
+      "url_fiche": "https://github.com/IngridXUETS/orkesa-lumen-poc"
+    }
+  ]
+}
