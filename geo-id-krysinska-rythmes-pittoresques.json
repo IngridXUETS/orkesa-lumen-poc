@@ -1,0 +1,139 @@
+{
+  "contract": {
+    "version": "v0.1.0",
+    "created_at": "2025-08-25T00:00:00Z",
+    "updated_at": "2025-08-25T00:00:00Z",
+    "contract_id": "3f0c4c2e-8f2e-4a0c-9e6c-6c8d9a3b5f21",
+    "authoring_tool": "Orkesa-OPL",
+    "purpose": "both",
+    "visibility": "public",
+    "notes": "Empreinte GEO-ID (POC) pour autrice sous-activée : Marie Krysinska, Rythmes pittoresques (1890)."
+  },
+  "work": {
+    "id_oeuvre": "poc_krysinska_rythmes_pittoresques_1890",
+    "titre": "Rythmes pittoresques",
+    "auteur": "Marie Krysinska",
+    "annee_premiere_pub": 1890,
+    "langue_orig": "FR",
+    "style_principal": "POESIE",
+    "styles_secondaires": [
+      "SYMBOLISME"
+    ],
+    "droits": {
+      "statut": "domaine_public",
+      "licence": "",
+      "titulaire": ""
+    },
+    "sources": [
+      {
+        "type": "gallica",
+        "url": "https://gallica.bnf.fr/ark:/12148/bpt6k1133531?rk=21459;2"
+      }
+    ]
+  },
+  "geo_payload": {
+    "synopsis_geo": {
+      "texte": "Recueil fondateur de la modernité poétique fin-de-siècle, Rythmes pittoresques déploie une voix lyrique qui explore sensations et paysages au fil de tableaux brefs. Krysinska, proche des milieux symbolistes, y pratique un vers libéré des contraintes métriques traditionnelles, jouant des coupes, de la respiration et d’une musicalité souple pour faire affleurer des images neuves. Les poèmes circulent entre scène urbaine et échappées marines, jardins nocturnes, cafés, quais, ombres et lumières : une géographie sensible où l’œil peint, l’oreille écoute et la mémoire recompose.\n\nLe recueil privilégie la synesthésie et l’esquisse : couleurs, parfums, frissons d’air, rumeurs deviennent matière rythmique, plutôt que sujet à illustrer. L’« intrigue » est minimale : c’est l’expérience d’attention qui fait mouvement, du silence à l’éveil, de la rumeur au chant, d’un instant saisi à sa retombée. Le « je » lyrique demeure discret, presque impersonnel, pour laisser passer le flux des impressions. Sous cette apparente simplicité, la forme travaille une révolution : Krysinska installe une prosodie mobile qui prépare l’oreille au vers libre, revendiquant une liberté d’allure et de cadence qui rompt avec l’alexandrin tyrannique.\n\nRythmes pittoresques peut ainsi se lire comme une poétique de la perception : faire voir et faire entendre. Par une économie de moyens et une précision d’images, Krysinska ouvre une voie alternative au canon masculin de la fin du XIXe siècle, où l’innovation formelle sert une attention aiguë au monde ordinaire. Le recueil agit moins comme manifeste que comme preuve par l’exemple : la modernité peut être ténue, respirée, pratiquée pièce après pièce.",
+      "langue": "fr",
+      "tokens": 410
+    },
+    "mots_cles": {
+      "themes": [
+        "vers libre naissant",
+        "synesthésie",
+        "paysage urbain et marin",
+        "nocturne",
+        "musicalité du langage",
+        "modernité fin-de-siècle",
+        "perception et attention",
+        "voix lyrique discrète"
+      ],
+      "sujets_normes": [
+        "Poésie française -- 19e siècle",
+        "Symbolisme (littérature)",
+        "Vers libre -- Histoire",
+        "Femmes poètes françaises"
+      ],
+      "tonalite": [
+        "contemplatif",
+        "sensible",
+        "innovant",
+        "intimiste"
+      ],
+      "publics": [
+        "université",
+        "licence / prépa",
+        "amateurs de poésie",
+        "études genre et canon littéraire",
+        "francophiles"
+      ]
+    },
+    "entites": {
+      "personnages": [
+        "Je lyrique (voix perceptive)",
+        "Figures passantes (anonymes)"
+      ],
+      "lieux": [
+        "Paris fin-de-siècle",
+        "Quais et jardins",
+        "Bords de mer",
+        "Intérieurs de cafés"
+      ],
+      "periodes": [
+        "Fin du XIXe siècle",
+        "Belle Époque (émergente)"
+      ],
+      "objets_clefs": [
+        "lumière / ombre",
+        "couleurs et parfums",
+        "rythme / respiration",
+        "eau / vent"
+      ]
+    },
+    "ancres_symboliques": [
+      {
+        "id": "ancre_rythme_libre",
+        "intitule": "Rythme libre et respiration",
+        "justification": "La cadence mobile organise la perception et signale l’innovation formelle du recueil."
+      },
+      {
+        "id": "ancre_synesthesie",
+        "intitule": "Synesthésie des sens",
+        "justification": "Fusion des couleurs, sons et parfums pour une poétique de l’attention."
+      },
+      {
+        "id": "ancre_tableau_vivant",
+        "intitule": "Tableaux brefs / esquisses",
+        "justification": "Logique de fragments qui composent un itinéraire sensible plutôt qu’un récit."
+      }
+    ],
+    "multimodal": {
+      "couverture_url": "",
+      "couverture_alt": ""
+    },
+    "liens_narratifs": [
+      {
+        "source": "Je lyrique",
+        "relation": "observe",
+        "cible": "paysages urbains et marins"
+      },
+      {
+        "source": "Rythme libre",
+        "relation": "oriente",
+        "cible": "perception et images"
+      },
+      {
+        "source": "Synesthésie",
+        "relation": "relie",
+        "cible": "sons, couleurs, parfums"
+      }
+    ],
+    "exemples_requetes": [
+      "poésie symboliste française fin XIXe",
+      "premiers exemples de vers libre en français",
+      "autrices françaises invisibilisées XIXe",
+      "recueils poétiques modernité fin-de-siècle",
+      "poésie française synesthésie paysages"
+    ]
+  }
+}
