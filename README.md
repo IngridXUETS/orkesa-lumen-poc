@@ -42,6 +42,6 @@ Par cette économie de moyens et cette précision d’images, Krysinska installe
 ---
 
 ## 📂 Fichier GEO-id JSON
-👉 [geo-id-krysinska-rythmes-pittoresques.json](./geo-id-krysinska-rythmes-pittoresques.json)  
+👉 [geo-id-krysinska-rythmes-pittoresques.json](https://raw.githubusercontent.com/IngridXUETS/orkesa-lumen-poc/refs/heads/main/geo-id-krysinska-rythmes-pittoresques-v2.json)  
 *(format machine-readable pour IA et développeurs)*
 
